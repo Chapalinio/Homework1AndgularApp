@@ -1,0 +1,13 @@
+div{
+    display: flex;
+    justify-content: center;
+}
+
+#title{
+    text-align: center;
+}
+
+.keyWord{
+    font-weight: bolder;
+    font-size: larger;
+}
